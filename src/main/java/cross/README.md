@@ -100,3 +100,6 @@ return w_bi;
 ```bash
 0.1172	0.1102	0.1248	0.1121	0.0966	0.1333	0.1520	0.0775	0.0763
 ```
+
+---
+- 👩‍💻 [返回首页](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/README.md)

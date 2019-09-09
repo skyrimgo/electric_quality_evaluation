@@ -32,3 +32,6 @@ public static double[] get_mix_w(double[] ahp, double[] cro) {
 ```
 0.1160	0.1267	0.1324	0.1416	0.0730	0.0610	0.0944	0.0943	0.1605
 ```
+
+---
+- 👩‍💻 [返回首页](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/README.md)

@@ -23,3 +23,6 @@
 2、利用`理想灰投影法`计算样本在正负理想状态下的投影，通过`优属度`对结果分析。
 
 3、误差主要来源于`主观权重`和基于主观权重和客观权重的综合权重的不同求解方法。
+
+---
+- 👩‍💻 [返回首页](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/README.md)

@@ -1,15 +1,52 @@
-## 电能质量综合评估
+## “按质定价”中的电能质量综合评估
 
+### 思路
 1、综合评估电能质量，综合权重克服了单一赋权模式的局限性。
 
 2、理想灰投影法计算正负理想状态下的投影，通过`优属度`对结果分析。
 
-- [AHP](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/ahp/README.md)
+### 模型
 
-- [加权交叉熵](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/cross/README.md)
+- 🐱 [AHP](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/ahp/README.md)
 
-- [综合权重](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/comprehensive/README.md)
+- 🍸 [加权交叉熵](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/cross/README.md)
 
-- [理想灰投影](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/correlation/README.md)
+- 💪 [综合权重](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/comprehensive/README.md)
 
-- [结果](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/README.md)
+- 🐔 [理想灰投影](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/correlation/README.md)
+
+### 结果
+- 👩‍💻 [结果](https://github.com/skyrimgo/electric_quality_evaluation/blob/master/src/main/java/README.md)
+
+### 参考文献
+[1]钟庆,刘峰,王钢,李海锋.电能质量监测数据中间距离法聚类分析[J].电力系统及其自动化学报,2016,28(08):69-73.
+
+[2]刘座铭,吕项羽,高长征.浅谈电能质量与电能差别定价[J].电气应用,2016,35(10):22-26.
+
+[3]屈梦然,庞成宇,王泉,姚俊伟,骆子潆,卢军,付豪.基于博弈论与理想灰关联投影法的电能质量综合评估[J].智慧电力,2018,46(06):55-60+87.
+
+[4]翁国庆,王强,戚军,谢路耀.电能质量可用户定制微网的按质定价方法[J].电工技术学报,2014,29(S1):384-392.
+
+[5]付学谦,陈皓勇,刘国特,金小明.分布式电源电能质量综合评估方法[J].中国电机工程学报,2014,34(25):4270-4276.
+
+[6]欧阳森,石怡理.改进熵权法及其在电能质量评估中的应用[J].电力系统自动化,2013,37(21):156-159+164.
+
+[7]邓雪,李家铭,曾浩健,陈俊羊,赵俊峰.层次分析法权重计算方法分析及其应用研究[J].数学的实践与认识,2012,42(07):93-100.
+
+[8]王宗耀,范莉,苏浩益.基于区间数理论的电能质量综合评估模型[J].电力系统保护与控制,2012,40(03):41-45+50.
+
+[9]李如琦,苏浩益.基于可拓云理论的电能质量综合评估模型[J].电力系统自动化,2012,36(01):66-70.
+
+[10]杨凌辉,恽峥,褚燕.面向智能电网的清洁能源电能质量定价机制研究[J].华东电力,2011,39(06):855-858.
+
+[11]王睿,方洁,张可,梁栋,程志友.基于熵权和AHP的电能质量模糊综合评估[J].电测与仪表,2007(11):21-25.
+
+[12]周林,栗秋华,刘华勇,张凤,屈涌杰.用模糊神经网络模型评估电能质量[J].高电压技术,2007(09):66-69.
+
+[13]李扬,王蓓蓓,万秋兰.基于需求侧可靠性差别定价的电力市场交易新机制[J].电力系统自动化,2007(04):18-22+75.
+
+[14]杨进,李庚银,周明.基于差别定价的电能质量服务定价方法[J].电力系统自动化,2006(08):41-46.
+
+[15]赵霞,赵成勇,贾秀芳,李庚银.基于可变权重的电能质量模糊综合评价[J].电网技术,2005(06):11-16.
+
+[16]林海雪.现代电能质量的基本问题[J].电网技术,2001(10):5-12.
